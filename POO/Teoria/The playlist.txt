@@ -1,0 +1,31 @@
+The playlist
+
+CEO: Chief Executive Officer, Gerente general, Director ejecutivo.
+
+CTO: Chief Technology Officer, director de tecnología.
+
+Agile: Filosfía metodológica, paradigma. Genera creatividad en las personas. Genera dinamismo. Todos son iguales.
+
+P2P:​ Red peer-to-peer (red de pares) red entre iguales o red entre pares es una red de ordenadores en la que todos o algunos aspectos funcionan sin clientes ni servidores fijos, sino una serie de nodos que se comportan como iguales entre sí.
+
+Etapas:
+
+1.REQUERIMIENTOS: Es la idea de lo que se quiere hacer.
+
+Requerimientos funcionales:
+No funcionales:
+
+2. Analisis:
+3. Diseño:
+4. Contrucción, Implementación:
+5. Prueba:
+6. Producción, mantenimiento: Actualizaciónes una vez que el proyecto que ya esta terminado.
+
+BPM: BUSINESS PROCESS MANAGEMENT, Gestion de Procesos de Negocio.
+
+JDK: Instalable, tiene todo lo necesario para programar en Java.
+JRE: Instalable, Solo para ejecutar la aplicación de Java.
+
+
+
+
